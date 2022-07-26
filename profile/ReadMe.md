@@ -1,8 +1,8 @@
+<div align="center">
 ![five-dragonz](https://user-images.githubusercontent.com/19919570/180923092-6150fc2a-5c44-4c51-ae37-140dd338200f.png)
 
 # 🔳INTRODUCE `METATOY DRAGONZ ADVENTURE`🔳
 ---
-<center>HI</center>
 ***
 ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white) ![C#](https://img.shields.io/badge/C%20Sharp-239120?style=flat-square&logo=CSharp&logoColor=white) ![Unity](https://img.shields.io/badge/Unity%202D-222324?style=flat-square&logo=Unity&logoColor=white)
 #
@@ -18,3 +18,5 @@ __Yeohong Min__ | `Design Director`
 __Seungbin Nam__ | `Map Developer`
 __Subin Song__ | `Sound Manager / Video Editing`
 __Hyelinn Song__ | `Sound Manager / Player`
+
+</div>
