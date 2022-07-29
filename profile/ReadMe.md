@@ -18,7 +18,7 @@ Name | Rule
 __Jaesung Choi__ | `Enemy AI / Boss AI`
 __Yeohong Min__ | `Design Director`
 __Seungbin Nam__ | `Map Developer`
-__Subin Song__ | `Sound Manager / Video Editing`
+__Subin Song__ | `Enmey Manager' / Video Editing`
 __Hyelinn Song__ | `Sound Manager / Player`
 
 ## 🔰 Visit Our Notion!  
