@@ -32,5 +32,8 @@ __Hyelinn Song__ | `Sound Manager / Player`
 [Game Download Link](https://team5dd.itch.io/5ddmetatoydragonzadventure)
 ---
 ---
+ 
+## 🎞 Our GamePlay Video!
+ [![Video Label](http://img.youtube.com/vi/yil-smoRFbs/0.jpg)](https://youtu.be/yil-smoRFbs)
 
 </div>
